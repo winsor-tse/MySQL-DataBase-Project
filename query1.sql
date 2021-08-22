@@ -1,1 +1,1 @@
-SELECT COUNT(UserID) FROM Users;
+SELECT bot_type FROM BOT_Info;
