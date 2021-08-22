@@ -1,1 +1,1 @@
-SELECT bot_type FROM BOT_Info;
+SELECT bot_type, Number_of_Bots FROM BOT_Info;
