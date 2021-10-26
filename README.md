@@ -1,3 +1,4 @@
+#Bot database
 A company called WITS Inc is manufacturing bots used inside many web applications. It follows the
 following business rules:
 a. A bot type information should be recorded once it is created.
